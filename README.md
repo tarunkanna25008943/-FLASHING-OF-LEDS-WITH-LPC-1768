@@ -80,7 +80,7 @@ int main(void)
 }
 ```
 # Output:
-<img width="899" height="1599" alt="WhatsApp Image 2026-09-23 at 13 03 25" src="https://github.com/user-attachments/assets/b66e5088-7358-405e-b86c-39d119e90208" />
+<img width="415" height="536" alt="image" src="https://github.com/user-attachments/assets/2e5a9892-132a-4142-9df1-9986a0d728c9" />
 
 # Result:
 Hence, LED blinking was implemented using GPIO control with LPC1768
