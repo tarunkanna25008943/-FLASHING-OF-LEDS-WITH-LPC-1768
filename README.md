@@ -80,6 +80,7 @@ int main(void)
 }
 ```
 # Output:
+
 <img width="415" height="536" alt="image" src="https://github.com/user-attachments/assets/2e5a9892-132a-4142-9df1-9986a0d728c9" />
 
 # Result:
